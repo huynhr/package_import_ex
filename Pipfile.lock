@@ -47,7 +47,7 @@
         "rh-http-package": {
             "editable": true,
             "git": "https://github.com/huynhr/rh_http_package.git",
-            "ref": "420d26b8aaa295bc29cadbf8eeabbb48a98e91f2"
+            "ref": "981ab69ae2510fe1914f05c4ef62b1ed76ecfca0"
         },
         "urllib3": {
             "hashes": [
