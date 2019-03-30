@@ -1,0 +1,12 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+rh-http-package = {editable = true,git = "https://github.com/huynhr/rh_http_package.git"}
+
+[requires]
+python_version = "3.7"
